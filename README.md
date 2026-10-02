@@ -28,6 +28,11 @@ This project is a front-end website designed for a lawn care service business. I
 - Creating a mobile navigation menu with JavaScript
 - Working with external fonts and icon libraries
 
+## How to Run
+
+Clone the repository and open the project using VS Code
+with Live Server.
+
 ## Project Preview
 
 Open=> preview(screenshot)
