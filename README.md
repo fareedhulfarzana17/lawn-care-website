@@ -30,4 +30,4 @@ This project is a front-end website designed for a lawn care service business. I
 
 ## Project Preview
 
-(project-preview-image/screenshot.png)
+Open=> preview(screenshot)
